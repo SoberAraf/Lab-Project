@@ -95,6 +95,43 @@ The project follows a modular C architecture with clear separation of concerns:
 - **Single-level Undo**
 
 ---
+## Screenshots
+
+### Main Window
+![Main window](01-main-window.png)
+
+### Image Opened
+![Image opened](02-image-opened.png)
+
+### Grayscale Result
+![Grayscale result](03-grayscale-result.png)
+
+### Brightness Dialog
+![Brightness dialog](04-brightness-dialog.png)
+
+### Brightness Result
+![Brightness result](05-brightness-result.png)
+
+### Invert Result
+![Invert result](06-invert-result.png)
+
+### Horizontal Flip
+![Horizontal flip](07-horizontal-flip.png)
+
+### Vertical Flip
+![Vertical flip](08-vertical-flip.png)
+
+### Rotate 90 Clockwise
+![Rotate 90](09-rotate-90-clockwise.png)
+
+### Crop Result
+![Crop result](10-crop-result.png)
+
+### Blur
+![Blur](11-blur.png)
+
+### Post-Save Options
+![Post save](12-post-save-button.png)
 
 ## Build Instructions
 
